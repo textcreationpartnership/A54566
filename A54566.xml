@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Petition to the petitioners</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54566</idno>
+            <idno type="STC">Wing P1860</idno>
+            <idno type="STC">ESTC R40081</idno>
+            <idno type="EEBO-CITATION">18692387</idno>
+            <idno type="OCLC">ocm 18692387</idno>
+            <idno type="VID">108175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1659:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Petition to the petitioners</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108175:1"/>
+            <!-- PDF PAGE 4 -->
+            <pb n="1" facs="tcp:108175:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>A PETITION TO THE PETITIONERS.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>5. Feb. 1679/80</add>
+                  </date>
+               </dateline>
+               <lb/>
+Humbly Shewing,</opener>
+            <p>THat there are a great number of ſubtle Engineers abroad, who under the Veil of Piety and Juſtice, invent falſe and ſcandalous reports of the Government, and Chief Magi<g ref="char:EOLhyphen"/>ſtrates of the Kingdom; dayly labouring to imprint falſe ſuggeſtions in the hearts of their fellow Subjects, with deſign, by that means to put us together by the Ears, that they may once more make a ſcramble not for the Good but for the Goods of the Nation.</p>
+            <p>It is moſt certain that there never was a violent attempt to make a change in Government, or to force any thing from Governours, that ever any got any thing by it, but ſuch as had nothing to looſe. By the very Conſtitution and Nature of all Monarchy and Kingly Governments, Kings are at their Liberty to Call and Aſſemble their Councils when they pleaſe; and Parliaments are no other, in <hi>England,</hi> than the Kings Great Council, and give themſelves no other name as yet: and at this time His Majeſty hath been pleaſed by Proclamation of ſignifie His Reſolutions of Proroguing the Par<g ref="char:EOLhyphen"/>liament; and upon an Addreſs being made unto Him for their Sit<g ref="char:EOLhyphen"/>ting, he did forbid the Agitating or Preſenting any more Petitions to that purpoſe, yet nevertheleſs ſome men amongſt us, with indefati<g ref="char:EOLhyphen"/>gable Induſtry and great Cunning, perſuade others to joyn with them to deſire that of the King which he hath declared againſt, and in ſuch a manner too as he hath forbid, and therefore they can ex<g ref="char:EOLhyphen"/>pect no other then to be again denyed: mark then what may be the Conſequence of this proceeding. There is nothing in the world more common than for one man having made a requeſt unto ano<g ref="char:EOLhyphen"/>ther, though for ſo trivial a thing as it matters not whether it be ob<g ref="char:EOLhyphen"/>tained or no, yet if it be denyed, he that is ſo denyed will be diſ<g ref="char:EOLhyphen"/>pleaſed
+<pb n="2" facs="tcp:108175:2"/>
+               <!-- PDF PAGE 5 -->
+with the other for denying; and on the other ſide, we know that over much importunity ſtirs up wrath: may not then this ſort of proceeding beget an enmity between the King and His people, and when that hath happened, it hath often ſo fallen out, that they have not been reconciled till experience hath diſcovered that a Kingdom divided againſt it ſelf cannot ſtand: It looks like a Deviliſh Art to drill the Nation into Rebellion, and it is not unlikely but that the next thing when the Subſcriptions are finiſht, will be to perſuade the people to require that with their Arms which they have Petitioned for with their Hands; or that theſe men that are thus irregularly violent for the Parliaments Sitting againſt the Kings will, may be as active, in caſe they ſhould Sit, to abett and aſſiſt them to Act what they think fit, be it right or wrong, and that it is not impoſſible for Parliaments to do ill things, there be too many preſidents.</p>
+            <p>There is nothing more dangerous to manage, or more doubtful in event, than to bring in changes and alterations in the form and nature of Government, it is as dangerous as to remove the Founda<g ref="char:EOLhyphen"/>tion of a Houſe, in doing whereof the whole Building will be ſhaken, and beſides the danger of falling, it will receive more hurt by ſhaking, than it doth good by the new Reparation, to attempt to force the King to call a Parliament againſt his will, is an attempt to change the very Nature and Foundation of the Government, for hitherto Parliaments were to Sit when the King pleaſed, but now ſome would have it that they muſt Sit when ſome of the people pleaſe. <hi>Anguis ſub herba Latet,</hi> there's a Snake in the Graſs, ſomthing is to be feared lies hid, not apparent to every Eye, elſe whats the matter with us, is any mans Lawful Liberty reſtrained? Is any mans Property invaded? Is the Proteſtant Religion any ways injured by the Government? But zealouſly Aſſerted and Protected; are there not Laws ſufficient, in a ſhort time, utterly to root out Popery from amongſt us, to ſay truth our cauſeleſs jealouſies and fears, the old bane of the Nation, are our chief grievances: do we fear the <hi>French</hi> Invading us, let us Arm our ſelves with reſolution againſt he comes, ſtoutly to repel him, but do not let us do his work for him before he comes, by cutting our own Throats. There is no deſtruction ſo great as when we deſtroy our ſelves, nor no greater incouragement and temptation to an Enemy than to ſee us at variance. The <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> attained to their great Empire by the Diſſenſions and Civil-Wars which they cunningly fomented amongſt their Neighbours; rather than by force of their Arms; and they themſelves again fell to ruin by the ſame means. The Conteſt between King <hi>Harold</hi> and his Brother <hi>Touſtain,</hi> did much facilitate the <hi>Norman</hi> Conqueſt. It were a great deal more plauſible to ſee a Petition to His Majeſty for leave to invade this great Bugbear the <hi>French</hi> King, than that that's now on Foot, perhaps the ratling of ſuch a Role of Parchment might
+<pb n="3" facs="tcp:108175:2"/>
+               <!-- PDF PAGE 5 -->
+have frightned all his Hobby-Horſes into <hi>Germany,</hi> or ſome other more remote Country.</p>
+            <p>If the Series and Courſe of Government muſt be changed every time a Diſcontented or Diſſenting party think fit, there will never be any ſettlement, for it is impoſſible there ſhould be ſuch Laws as will pleaſe all; this Sect is for one Form of Worſhip and Govern<g ref="char:EOLhyphen"/>ment, the other for another, the third for a third, and all the reſt of each ſeveral Sect (wherewith we too much abound) is for a by<g ref="char:EOLhyphen"/>way by it ſelf: the Drunkards like not thoſe Laws which reſtrain their Tipling, the Laſcivious men are for Community of women, the Idle and Laſie that are poor and will not Labour, they are for Levelling: the Bravoes would have no man Hanged for gentiley borrowing a Sum upon the Road; the vain Extravagant who hath waſted his Eſtate in Riot, he is for a year of Jubile, a Reaſumtion of his Eſtate, and Releaſe from his Debts: it is but the Good only that are pleaſed with Good Laws, and ſuch ſort of men are not the greater number in all Nations: Therefore to prevent the unreaſo<g ref="char:EOLhyphen"/>nable deſires of unreaſonable men, where ever were Reſtraints upon men in all well Ordered Common-Wealths touching Petitions, even in thoſe States where the Government was moſt Popular: when <hi>Rome</hi> was a Popular State, none were permitted upon pain of death to preſent any Petition to the State without the privity and conſent of the Senate, and this had the reputation of the moſt neceſſary Law that could be, the like Rule is now obſerved in that Ancient and Flouriſhing State of <hi>Venice:</hi> which ſort of Government many have an acking Tooth after, and would like enough have an acking Heart if they had it; there it is not permitted that any preſent any Petition or Requeſt, unto the Senate, without the advice of the Council of Sages. A notable cuſtom it was that was amongſt the <hi>Locreſians</hi> that he that would preſent any Petition or Requeſt to have it paſs into a Law, was conſtrained to move it with a Rope about his Neck, wherewith he was upon the place to be ſtrangled if he failed to prove the Law by him moved for to be profitable for the people, ſo dangerous was Innovation, and Novelty of Laws and Liberty, for all ſorts of people to meddle with the Government. Lookt upon amongſt the Antients, whoſe examples we ought to fol<g ref="char:EOLhyphen"/>low in things of good ſucceſs how unjuſtifiable and irregular, then is the courſe now practiſed in procuring Subſcriptions to Petitions, as if every ordinary man that's hardly able to write his name, were able to judg when it is neceſſary for a Parliament to ſit, and when not: but ſince whats paſt cannot be recalled, this Petitioner humbly deſires thoſe that were ſeduced to Subſcribe the <hi>Preſumtive Petition,</hi> to proceed no further, it is no diſgrace to deſiſt upon perſe<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing the evil, <hi>Humanum eſt erare ſed in errore perſeverare belluinum eſt.</hi>
+               <q>
+                  <pb n="4" facs="tcp:108175:3"/>
+                  <!-- PDF PAGE 6 -->
+                  <l>Sometimes to Err may be the fault o'th beſt,</l>
+                  <l>In faults to perſevere belongs but to a beaſt.</l>
+               </q>
+            </p>
+            <p>For your own ſelves ſake (dear Fellow Cittizens and Country<g ref="char:EOLhyphen"/>men) let us enjoy Peace while we may, violent Remedies ſhould be applyed but to deſperate Diſeaſes, and then only when there is no other hopes left. It concerns us very narrowly to look about us that we be not ſeduced to work our own ruin by men who have no other hopes to enrich themſelves but by fiſhing in troubled waters. A Civil-War is the greateſt miſery that can befal a Nation. Oh! What bloudy Maſacres it produceth, cruel Revengings, Exactions, Robberies, Rapes, Depopulating of Cities, and Burning of Towns? Infinite and unexpreſſible are the Calamities and Miſeries which proceed from Rebellion, a word is enough to the wiſe, but though you Bray a Fool or a Factious man in a Morter, yet will they not for<g ref="char:EOLhyphen"/>ſake their Folly: Therefore the Petitioner concludes with a Scri<g ref="char:EOLhyphen"/>pture Phraſe, which will certainly influence men of Religion. <hi>If it be poſsible as much as lyeth in you live peaceably with all men,</hi> Rom. xii. 18.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108175:3"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </body>
+   </text>
+</TEI>
